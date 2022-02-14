@@ -1,0 +1,4 @@
+1. Virtual Dom
+2. Diffing
+3. Parent - child rerender of parent renders
+4. React.memo
